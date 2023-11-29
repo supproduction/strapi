@@ -108,3 +108,5 @@ license.txt
 exports
 *.cache
 dist
+build
+.tmp
