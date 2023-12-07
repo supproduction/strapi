@@ -40,6 +40,15 @@
       },
       "type": "string",
       "required": true
+    },
+    "tag": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      },
+      "type": "customField",
+      "customField": "plugin::tagsinput.tags"
     }
   }
 }
