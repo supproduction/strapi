@@ -41,10 +41,10 @@
       "type": "string",
       "required": true
     },
-    "tag": {
+    "tags": {
       "pluginOptions": {
         "i18n": {
-          "localized": false
+          "localized": true
         }
       },
       "type": "customField",
